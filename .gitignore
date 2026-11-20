@@ -1,0 +1,10 @@
+# Executable files
+a.out
+addressbook
+*.exe
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
