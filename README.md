@@ -13,7 +13,7 @@ The project uses structures, arrays, modular programming, and file handling conc
 - **Edit Contact:** Modify the details of existing contacts.
 - **Delete Contact:** Remove unwanted contacts from the address book.
 - **List Contacts:** Display all stored contacts.
-- **Sort Contacts:** Sort contacts based on name, phone number, or email address.
+- **Sort Contacts:** Sort contacts based on name, phone number, or email address. 
 - **File Handling:** Store and retrieve contact information using files.
 - **Data Persistence:** Maintain contact information across multiple program executions.
 
